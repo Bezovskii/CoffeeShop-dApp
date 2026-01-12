@@ -43,6 +43,7 @@ For a live demo, start the Hardhat node, deploy the contracts, and run the React
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Author
 Behzad Khoshian
+Github repo:https://github.com/Bezovskii/CoffeeShop-dApp
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Notes:
 This project runs only on a local Hardhat blockchain. No real cryptocurrency is used. The project is intended for learning, demonstration, and academic evaluation.
